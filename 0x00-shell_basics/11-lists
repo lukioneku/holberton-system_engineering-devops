@@ -1,6 +1,3 @@
 #!/bin/bash
 ls -la
-ls -la /holberton-system_engineering-devops
-ls -la /holberton
-ls -la /root
-ls -la /boot
+ls -la /holberton-system_engineering-devops /holberton /root /boot
