@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 /0x01-shell_permissions -R
+sudo chmod -R 755 /opt/lampp/htdocs
