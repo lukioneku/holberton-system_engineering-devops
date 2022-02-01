@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{print ">"$14}1' iacta
+awk '{print $14;}{print $14;}' iacta > iacta
