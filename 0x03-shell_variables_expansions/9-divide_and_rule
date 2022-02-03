@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((POWER/KNOWLEDGE))
+echo $((POWER/DIVIDE))
